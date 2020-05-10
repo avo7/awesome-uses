@@ -7260,7 +7260,7 @@ module.exports = [
     twitter: '@AvrisIT',
     emoji: '🏳‍🌈',
     country: '🇪🇺',
-    computer: 'linux',
+    computer: 'apple',
     phone: 'iphone',
     tags: [
       'Developer',
@@ -7270,6 +7270,7 @@ module.exports = [
       'Vue',
       'Node',
       'CSS',
+      'Python'
     ],
   },
   {
